@@ -5,7 +5,7 @@
  */
 package Capitulo3;
 
-import com.sun.xml.internal.bind.v2.runtime.output.SAXOutput;
+
 import java.util.Scanner;
 
 /**
